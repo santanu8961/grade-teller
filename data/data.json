@@ -1,0 +1,1700 @@
+[
+    {
+      "bengali": 26,
+      "english": 9,
+      "maths": 37,
+      "good": 0.7166
+    },
+    {
+      "bengali": 84,
+      "english": 81,
+      "maths": 68,
+      "good": 0.7937
+    },
+    {
+      "bengali": 19,
+      "english": 65,
+      "maths": 27,
+      "good": 0.1322
+    },
+    {
+      "bengali": 67,
+      "english": 95,
+      "maths": 36,
+      "good": 0.5325
+    },
+    {
+      "bengali": 50,
+      "english": 74,
+      "maths": 76,
+      "good": 0.0431
+    },
+    {
+      "bengali": 69,
+      "english": 78,
+      "maths": 5,
+      "good": 0.9462
+    },
+    {
+      "bengali": 30,
+      "english": 11,
+      "maths": 38,
+      "good": 0.8959
+    },
+    {
+      "bengali": 19,
+      "english": 42,
+      "maths": 25,
+      "good": 0.8558
+    },
+    {
+      "bengali": 17,
+      "english": 3,
+      "maths": 94,
+      "good": 0.039
+    },
+    {
+      "bengali": 16,
+      "english": 79,
+      "maths": 84,
+      "good": 0.9843
+    },
+    {
+      "bengali": 49,
+      "english": 59,
+      "maths": 67,
+      "good": 0.552
+    },
+    {
+      "bengali": 67,
+      "english": 70,
+      "maths": 11,
+      "good": 0.6237
+    },
+    {
+      "bengali": 40,
+      "english": 42,
+      "maths": 31,
+      "good": 0.7615
+    },
+    {
+      "bengali": 85,
+      "english": 29,
+      "maths": 55,
+      "good": 0.5799
+    },
+    {
+      "bengali": 46,
+      "english": 76,
+      "maths": 12,
+      "good": 0.6431
+    },
+    {
+      "bengali": 38,
+      "english": 49,
+      "maths": 13,
+      "good": 0.5199
+    },
+    {
+      "bengali": 13,
+      "english": 50,
+      "maths": 62,
+      "good": 0.2703
+    },
+    {
+      "bengali": 50,
+      "english": 84,
+      "maths": 45,
+      "good": 0.9581
+    },
+    {
+      "bengali": 16,
+      "english": 76,
+      "maths": 79,
+      "good": 0.1046
+    },
+    {
+      "bengali": 98,
+      "english": 65,
+      "maths": 58,
+      "good": 0.4397
+    },
+    {
+      "bengali": 48,
+      "english": 62,
+      "maths": 73,
+      "good": 0.479
+    },
+    {
+      "bengali": 7,
+      "english": 87,
+      "maths": 42,
+      "good": 0.707
+    },
+    {
+      "bengali": 54,
+      "english": 23,
+      "maths": 84,
+      "good": 0.4655
+    },
+    {
+      "bengali": 95,
+      "english": 81,
+      "maths": 38,
+      "good": 0.5661
+    },
+    {
+      "bengali": 23,
+      "english": 64,
+      "maths": 55,
+      "good": 0.3876
+    },
+    {
+      "bengali": 91,
+      "english": 29,
+      "maths": 88,
+      "good": 0.6603
+    },
+    {
+      "bengali": 24,
+      "english": 50,
+      "maths": 34,
+      "good": 0.0483
+    },
+    {
+      "bengali": 59,
+      "english": 52,
+      "maths": 65,
+      "good": 0.2991
+    },
+    {
+      "bengali": 47,
+      "english": 99,
+      "maths": 80,
+      "good": 0.0414
+    },
+    {
+      "bengali": 76,
+      "english": 87,
+      "maths": 63,
+      "good": 0.8553
+    },
+    {
+      "bengali": 72,
+      "english": 80,
+      "maths": 16,
+      "good": 0.8342
+    },
+    {
+      "bengali": 33,
+      "english": 13,
+      "maths": 20,
+      "good": 0.2249
+    },
+    {
+      "bengali": 64,
+      "english": 12,
+      "maths": 33,
+      "good": 0.4543
+    },
+    {
+      "bengali": 69,
+      "english": 58,
+      "maths": 91,
+      "good": 0.7639
+    },
+    {
+      "bengali": 40,
+      "english": 23,
+      "maths": 24,
+      "good": 0.4304
+    },
+    {
+      "bengali": 39,
+      "english": 61,
+      "maths": 37,
+      "good": 0.6879
+    },
+    {
+      "bengali": 83,
+      "english": 12,
+      "maths": 66,
+      "good": 0.6629
+    },
+    {
+      "bengali": 2,
+      "english": 18,
+      "maths": 10,
+      "good": 0.1254
+    },
+    {
+      "bengali": 87,
+      "english": 49,
+      "maths": 6,
+      "good": 0.2329
+    },
+    {
+      "bengali": 54,
+      "english": 0,
+      "maths": 14,
+      "good": 0.6097
+    },
+    {
+      "bengali": 97,
+      "english": 22,
+      "maths": 100,
+      "good": 0.05
+    },
+    {
+      "bengali": 9,
+      "english": 32,
+      "maths": 54,
+      "good": 0.1467
+    },
+    {
+      "bengali": 74,
+      "english": 64,
+      "maths": 58,
+      "good": 0.7482
+    },
+    {
+      "bengali": 7,
+      "english": 84,
+      "maths": 90,
+      "good": 0.7578
+    },
+    {
+      "bengali": 80,
+      "english": 36,
+      "maths": 62,
+      "good": 0.5409
+    },
+    {
+      "bengali": 48,
+      "english": 94,
+      "maths": 81,
+      "good": 0.6464
+    },
+    {
+      "bengali": 26,
+      "english": 39,
+      "maths": 82,
+      "good": 0.2902
+    },
+    {
+      "bengali": 91,
+      "english": 87,
+      "maths": 93,
+      "good": 0.9807
+    },
+    {
+      "bengali": 84,
+      "english": 96,
+      "maths": 88,
+      "good": 0.6891
+    },
+    {
+      "bengali": 59,
+      "english": 40,
+      "maths": 6,
+      "good": 0.806
+    },
+    {
+      "bengali": 50,
+      "english": 84,
+      "maths": 60,
+      "good": 0.7978
+    },
+    {
+      "bengali": 43,
+      "english": 81,
+      "maths": 87,
+      "good": 0.2143
+    },
+    {
+      "bengali": 5,
+      "english": 24,
+      "maths": 50,
+      "good": 0.3933
+    },
+    {
+      "bengali": 94,
+      "english": 93,
+      "maths": 8,
+      "good": 0.5446
+    },
+    {
+      "bengali": 40,
+      "english": 11,
+      "maths": 9,
+      "good": 0.7582
+    },
+    {
+      "bengali": 95,
+      "english": 62,
+      "maths": 14,
+      "good": 0.2493
+    },
+    {
+      "bengali": 53,
+      "english": 5,
+      "maths": 90,
+      "good": 0.4795
+    },
+    {
+      "bengali": 84,
+      "english": 17,
+      "maths": 91,
+      "good": 0.0025
+    },
+    {
+      "bengali": 43,
+      "english": 2,
+      "maths": 99,
+      "good": 0.2665
+    },
+    {
+      "bengali": 4,
+      "english": 33,
+      "maths": 37,
+      "good": 0.7364
+    },
+    {
+      "bengali": 70,
+      "english": 99,
+      "maths": 6,
+      "good": 0.2451
+    },
+    {
+      "bengali": 58,
+      "english": 37,
+      "maths": 21,
+      "good": 0.8007
+    },
+    {
+      "bengali": 26,
+      "english": 23,
+      "maths": 64,
+      "good": 0.3775
+    },
+    {
+      "bengali": 49,
+      "english": 11,
+      "maths": 12,
+      "good": 0.2635
+    },
+    {
+      "bengali": 62,
+      "english": 77,
+      "maths": 65,
+      "good": 0.1664
+    },
+    {
+      "bengali": 8,
+      "english": 37,
+      "maths": 17,
+      "good": 0.3097
+    },
+    {
+      "bengali": 100,
+      "english": 63,
+      "maths": 93,
+      "good": 0.0493
+    },
+    {
+      "bengali": 62,
+      "english": 45,
+      "maths": 71,
+      "good": 0.01
+    },
+    {
+      "bengali": 14,
+      "english": 46,
+      "maths": 85,
+      "good": 0.448
+    },
+    {
+      "bengali": 58,
+      "english": 2,
+      "maths": 89,
+      "good": 0.4957
+    },
+    {
+      "bengali": 13,
+      "english": 22,
+      "maths": 10,
+      "good": 0.0739
+    },
+    {
+      "bengali": 33,
+      "english": 34,
+      "maths": 11,
+      "good": 0.4666
+    },
+    {
+      "bengali": 19,
+      "english": 6,
+      "maths": 23,
+      "good": 0.8341
+    },
+    {
+      "bengali": 51,
+      "english": 93,
+      "maths": 0,
+      "good": 0.6846
+    },
+    {
+      "bengali": 46,
+      "english": 40,
+      "maths": 57,
+      "good": 0.906
+    },
+    {
+      "bengali": 42,
+      "english": 24,
+      "maths": 11,
+      "good": 0.0606
+    },
+    {
+      "bengali": 54,
+      "english": 50,
+      "maths": 13,
+      "good": 0.788
+    },
+    {
+      "bengali": 94,
+      "english": 62,
+      "maths": 45,
+      "good": 0.7991
+    },
+    {
+      "bengali": 50,
+      "english": 83,
+      "maths": 63,
+      "good": 0.4225
+    },
+    {
+      "bengali": 27,
+      "english": 48,
+      "maths": 90,
+      "good": 0.274
+    },
+    {
+      "bengali": 84,
+      "english": 27,
+      "maths": 98,
+      "good": 0.218
+    },
+    {
+      "bengali": 88,
+      "english": 67,
+      "maths": 77,
+      "good": 0.9022
+    },
+    {
+      "bengali": 85,
+      "english": 15,
+      "maths": 94,
+      "good": 0.789
+    },
+    {
+      "bengali": 88,
+      "english": 39,
+      "maths": 35,
+      "good": 0.2293
+    },
+    {
+      "bengali": 59,
+      "english": 82,
+      "maths": 27,
+      "good": 0.2906
+    },
+    {
+      "bengali": 94,
+      "english": 0,
+      "maths": 55,
+      "good": 0.6112
+    },
+    {
+      "bengali": 80,
+      "english": 18,
+      "maths": 68,
+      "good": 0.9148
+    },
+    {
+      "bengali": 80,
+      "english": 75,
+      "maths": 32,
+      "good": 0.4391
+    },
+    {
+      "bengali": 91,
+      "english": 26,
+      "maths": 69,
+      "good": 0.3543
+    },
+    {
+      "bengali": 1,
+      "english": 45,
+      "maths": 84,
+      "good": 0.2107
+    },
+    {
+      "bengali": 38,
+      "english": 7,
+      "maths": 24,
+      "good": 0.8273
+    },
+    {
+      "bengali": 64,
+      "english": 55,
+      "maths": 4,
+      "good": 0.7916
+    },
+    {
+      "bengali": 47,
+      "english": 98,
+      "maths": 22,
+      "good": 0.0381
+    },
+    {
+      "bengali": 99,
+      "english": 55,
+      "maths": 17,
+      "good": 0.4929
+    },
+    {
+      "bengali": 82,
+      "english": 21,
+      "maths": 93,
+      "good": 0.3668
+    },
+    {
+      "bengali": 24,
+      "english": 69,
+      "maths": 66,
+      "good": 0.3366
+    },
+    {
+      "bengali": 82,
+      "english": 59,
+      "maths": 46,
+      "good": 0.3572
+    },
+    {
+      "bengali": 15,
+      "english": 58,
+      "maths": 9,
+      "good": 0.6512
+    },
+    {
+      "bengali": 5,
+      "english": 71,
+      "maths": 91,
+      "good": 0.5344
+    },
+    {
+      "bengali": 18,
+      "english": 34,
+      "maths": 49,
+      "good": 0.5749
+    },
+    {
+      "bengali": 44,
+      "english": 25,
+      "maths": 12,
+      "good": 0.3291
+    },
+    {
+      "bengali": 73,
+      "english": 6,
+      "maths": 17,
+      "good": 0.1918
+    },
+    {
+      "bengali": 76,
+      "english": 65,
+      "maths": 25,
+      "good": 0.9244
+    },
+    {
+      "bengali": 35,
+      "english": 55,
+      "maths": 39,
+      "good": 0.7381
+    },
+    {
+      "bengali": 63,
+      "english": 33,
+      "maths": 70,
+      "good": 0.8074
+    },
+    {
+      "bengali": 73,
+      "english": 100,
+      "maths": 75,
+      "good": 0.6266
+    },
+    {
+      "bengali": 30,
+      "english": 3,
+      "maths": 54,
+      "good": 0.2205
+    },
+    {
+      "bengali": 60,
+      "english": 34,
+      "maths": 52,
+      "good": 0.8903
+    },
+    {
+      "bengali": 18,
+      "english": 67,
+      "maths": 50,
+      "good": 0.5634
+    },
+    {
+      "bengali": 94,
+      "english": 18,
+      "maths": 50,
+      "good": 0.9278
+    },
+    {
+      "bengali": 32,
+      "english": 94,
+      "maths": 19,
+      "good": 0.8109
+    },
+    {
+      "bengali": 48,
+      "english": 35,
+      "maths": 86,
+      "good": 0.6827
+    },
+    {
+      "bengali": 50,
+      "english": 58,
+      "maths": 50,
+      "good": 0.227
+    },
+    {
+      "bengali": 86,
+      "english": 76,
+      "maths": 18,
+      "good": 0.3051
+    },
+    {
+      "bengali": 64,
+      "english": 93,
+      "maths": 27,
+      "good": 0.3683
+    },
+    {
+      "bengali": 55,
+      "english": 51,
+      "maths": 10,
+      "good": 0.4948
+    },
+    {
+      "bengali": 43,
+      "english": 46,
+      "maths": 11,
+      "good": 0.0091
+    },
+    {
+      "bengali": 35,
+      "english": 78,
+      "maths": 3,
+      "good": 0.7222
+    },
+    {
+      "bengali": 74,
+      "english": 63,
+      "maths": 37,
+      "good": 0.7069
+    },
+    {
+      "bengali": 72,
+      "english": 95,
+      "maths": 100,
+      "good": 0.0886
+    },
+    {
+      "bengali": 70,
+      "english": 65,
+      "maths": 0,
+      "good": 0.5326
+    },
+    {
+      "bengali": 8,
+      "english": 63,
+      "maths": 96,
+      "good": 0.1625
+    },
+    {
+      "bengali": 43,
+      "english": 16,
+      "maths": 17,
+      "good": 0.493
+    },
+    {
+      "bengali": 84,
+      "english": 90,
+      "maths": 57,
+      "good": 0.4713
+    },
+    {
+      "bengali": 72,
+      "english": 67,
+      "maths": 84,
+      "good": 0.1037
+    },
+    {
+      "bengali": 51,
+      "english": 1,
+      "maths": 50,
+      "good": 0.4549
+    },
+    {
+      "bengali": 18,
+      "english": 59,
+      "maths": 15,
+      "good": 0.0712
+    },
+    {
+      "bengali": 8,
+      "english": 84,
+      "maths": 30,
+      "good": 0.3446
+    },
+    {
+      "bengali": 83,
+      "english": 84,
+      "maths": 48,
+      "good": 0.2232
+    },
+    {
+      "bengali": 7,
+      "english": 94,
+      "maths": 73,
+      "good": 0.6528
+    },
+    {
+      "bengali": 70,
+      "english": 91,
+      "maths": 43,
+      "good": 0.6404
+    },
+    {
+      "bengali": 10,
+      "english": 80,
+      "maths": 46,
+      "good": 0.0315
+    },
+    {
+      "bengali": 77,
+      "english": 13,
+      "maths": 14,
+      "good": 0.8513
+    },
+    {
+      "bengali": 73,
+      "english": 73,
+      "maths": 94,
+      "good": 0.3838
+    },
+    {
+      "bengali": 59,
+      "english": 79,
+      "maths": 15,
+      "good": 0.9028
+    },
+    {
+      "bengali": 95,
+      "english": 82,
+      "maths": 59,
+      "good": 0.8064
+    },
+    {
+      "bengali": 15,
+      "english": 53,
+      "maths": 57,
+      "good": 0.0102
+    },
+    {
+      "bengali": 65,
+      "english": 91,
+      "maths": 18,
+      "good": 0.8591
+    },
+    {
+      "bengali": 2,
+      "english": 40,
+      "maths": 20,
+      "good": 0.6363
+    },
+    {
+      "bengali": 99,
+      "english": 72,
+      "maths": 6,
+      "good": 0.8281
+    },
+    {
+      "bengali": 80,
+      "english": 83,
+      "maths": 86,
+      "good": 0.0989
+    },
+    {
+      "bengali": 69,
+      "english": 91,
+      "maths": 9,
+      "good": 0.1004
+    },
+    {
+      "bengali": 100,
+      "english": 17,
+      "maths": 45,
+      "good": 0.3482
+    },
+    {
+      "bengali": 35,
+      "english": 53,
+      "maths": 6,
+      "good": 0.0728
+    },
+    {
+      "bengali": 20,
+      "english": 36,
+      "maths": 76,
+      "good": 0.3253
+    },
+    {
+      "bengali": 50,
+      "english": 37,
+      "maths": 5,
+      "good": 0.3154
+    },
+    {
+      "bengali": 60,
+      "english": 4,
+      "maths": 38,
+      "good": 0.2681
+    },
+    {
+      "bengali": 76,
+      "english": 89,
+      "maths": 99,
+      "good": 0.0961
+    },
+    {
+      "bengali": 18,
+      "english": 96,
+      "maths": 100,
+      "good": 0.4299
+    },
+    {
+      "bengali": 2,
+      "english": 85,
+      "maths": 14,
+      "good": 0.3065
+    },
+    {
+      "bengali": 59,
+      "english": 46,
+      "maths": 65,
+      "good": 0.6482
+    },
+    {
+      "bengali": 40,
+      "english": 82,
+      "maths": 65,
+      "good": 0.5063
+    },
+    {
+      "bengali": 60,
+      "english": 24,
+      "maths": 48,
+      "good": 0.3432
+    },
+    {
+      "bengali": 48,
+      "english": 8,
+      "maths": 10,
+      "good": 0.982
+    },
+    {
+      "bengali": 60,
+      "english": 34,
+      "maths": 94,
+      "good": 0.0983
+    },
+    {
+      "bengali": 48,
+      "english": 29,
+      "maths": 70,
+      "good": 0.576
+    },
+    {
+      "bengali": 21,
+      "english": 39,
+      "maths": 29,
+      "good": 0.6034
+    },
+    {
+      "bengali": 43,
+      "english": 8,
+      "maths": 46,
+      "good": 0.0816
+    },
+    {
+      "bengali": 25,
+      "english": 56,
+      "maths": 8,
+      "good": 0.4972
+    },
+    {
+      "bengali": 56,
+      "english": 22,
+      "maths": 58,
+      "good": 0.807
+    },
+    {
+      "bengali": 64,
+      "english": 98,
+      "maths": 24,
+      "good": 0.6721
+    },
+    {
+      "bengali": 19,
+      "english": 15,
+      "maths": 78,
+      "good": 0.8346
+    },
+    {
+      "bengali": 26,
+      "english": 98,
+      "maths": 5,
+      "good": 0.6842
+    },
+    {
+      "bengali": 0,
+      "english": 76,
+      "maths": 75,
+      "good": 0.5635
+    },
+    {
+      "bengali": 38,
+      "english": 1,
+      "maths": 39,
+      "good": 0.3369
+    },
+    {
+      "bengali": 6,
+      "english": 57,
+      "maths": 97,
+      "good": 0.1705
+    },
+    {
+      "bengali": 43,
+      "english": 90,
+      "maths": 13,
+      "good": 0.1344
+    },
+    {
+      "bengali": 72,
+      "english": 92,
+      "maths": 36,
+      "good": 0.3012
+    },
+    {
+      "bengali": 46,
+      "english": 43,
+      "maths": 69,
+      "good": 0.4868
+    },
+    {
+      "bengali": 52,
+      "english": 36,
+      "maths": 95,
+      "good": 0.313
+    },
+    {
+      "bengali": 95,
+      "english": 15,
+      "maths": 0,
+      "good": 0.3688
+    },
+    {
+      "bengali": 95,
+      "english": 32,
+      "maths": 50,
+      "good": 0.3839
+    },
+    {
+      "bengali": 16,
+      "english": 50,
+      "maths": 40,
+      "good": 0.3537
+    },
+    {
+      "bengali": 73,
+      "english": 48,
+      "maths": 89,
+      "good": 0.8348
+    },
+    {
+      "bengali": 46,
+      "english": 21,
+      "maths": 12,
+      "good": 0.621
+    },
+    {
+      "bengali": 89,
+      "english": 7,
+      "maths": 40,
+      "good": 0.6759
+    },
+    {
+      "bengali": 5,
+      "english": 29,
+      "maths": 97,
+      "good": 0.2593
+    },
+    {
+      "bengali": 29,
+      "english": 82,
+      "maths": 37,
+      "good": 0.2323
+    },
+    {
+      "bengali": 76,
+      "english": 58,
+      "maths": 67,
+      "good": 0.9163
+    },
+    {
+      "bengali": 23,
+      "english": 94,
+      "maths": 34,
+      "good": 0.5748
+    },
+    {
+      "bengali": 79,
+      "english": 23,
+      "maths": 18,
+      "good": 0.5071
+    },
+    {
+      "bengali": 22,
+      "english": 9,
+      "maths": 85,
+      "good": 0.2711
+    },
+    {
+      "bengali": 66,
+      "english": 94,
+      "maths": 60,
+      "good": 0.4102
+    },
+    {
+      "bengali": 51,
+      "english": 0,
+      "maths": 41,
+      "good": 0.5234
+    },
+    {
+      "bengali": 5,
+      "english": 60,
+      "maths": 65,
+      "good": 0.7895
+    },
+    {
+      "bengali": 42,
+      "english": 83,
+      "maths": 31,
+      "good": 0.2319
+    },
+    {
+      "bengali": 84,
+      "english": 17,
+      "maths": 65,
+      "good": 0.5331
+    },
+    {
+      "bengali": 87,
+      "english": 89,
+      "maths": 12,
+      "good": 0.1764
+    },
+    {
+      "bengali": 66,
+      "english": 81,
+      "maths": 73,
+      "good": 0.879
+    },
+    {
+      "bengali": 57,
+      "english": 71,
+      "maths": 26,
+      "good": 0.2892
+    },
+    {
+      "bengali": 19,
+      "english": 4,
+      "maths": 35,
+      "good": 0.9692
+    },
+    {
+      "bengali": 42,
+      "english": 25,
+      "maths": 7,
+      "good": 0.6162
+    },
+    {
+      "bengali": 95,
+      "english": 33,
+      "maths": 47,
+      "good": 0.5981
+    },
+    {
+      "bengali": 19,
+      "english": 18,
+      "maths": 24,
+      "good": 0.4853
+    },
+    {
+      "bengali": 66,
+      "english": 19,
+      "maths": 80,
+      "good": 0.9931
+    },
+    {
+      "bengali": 43,
+      "english": 21,
+      "maths": 56,
+      "good": 0.6018
+    },
+    {
+      "bengali": 48,
+      "english": 99,
+      "maths": 4,
+      "good": 0.7551
+    },
+    {
+      "bengali": 18,
+      "english": 41,
+      "maths": 86,
+      "good": 0.6593
+    },
+    {
+      "bengali": 7,
+      "english": 82,
+      "maths": 92,
+      "good": 0.619
+    },
+    {
+      "bengali": 19,
+      "english": 70,
+      "maths": 96,
+      "good": 0.673
+    },
+    {
+      "bengali": 9,
+      "english": 19,
+      "maths": 10,
+      "good": 0.2193
+    },
+    {
+      "bengali": 93,
+      "english": 26,
+      "maths": 86,
+      "good": 0.5613
+    },
+    {
+      "bengali": 75,
+      "english": 67,
+      "maths": 2,
+      "good": 0.1756
+    },
+    {
+      "bengali": 49,
+      "english": 19,
+      "maths": 49,
+      "good": 0.6218
+    },
+    {
+      "bengali": 55,
+      "english": 12,
+      "maths": 93,
+      "good": 0.1835
+    },
+    {
+      "bengali": 94,
+      "english": 85,
+      "maths": 88,
+      "good": 0.7171
+    },
+    {
+      "bengali": 72,
+      "english": 27,
+      "maths": 54,
+      "good": 0.7952
+    },
+    {
+      "bengali": 11,
+      "english": 47,
+      "maths": 14,
+      "good": 0.674
+    },
+    {
+      "bengali": 64,
+      "english": 22,
+      "maths": 43,
+      "good": 0.8783
+    },
+    {
+      "bengali": 6,
+      "english": 67,
+      "maths": 88,
+      "good": 0.3635
+    },
+    {
+      "bengali": 92,
+      "english": 65,
+      "maths": 96,
+      "good": 0.9477
+    },
+    {
+      "bengali": 20,
+      "english": 66,
+      "maths": 35,
+      "good": 0.3544
+    },
+    {
+      "bengali": 36,
+      "english": 81,
+      "maths": 78,
+      "good": 0.9167
+    },
+    {
+      "bengali": 21,
+      "english": 89,
+      "maths": 75,
+      "good": 0.824
+    },
+    {
+      "bengali": 31,
+      "english": 15,
+      "maths": 50,
+      "good": 0.214
+    },
+    {
+      "bengali": 60,
+      "english": 62,
+      "maths": 24,
+      "good": 0.623
+    },
+    {
+      "bengali": 6,
+      "english": 44,
+      "maths": 62,
+      "good": 0.3844
+    },
+    {
+      "bengali": 70,
+      "english": 41,
+      "maths": 4,
+      "good": 0.8218
+    },
+    {
+      "bengali": 86,
+      "english": 73,
+      "maths": 27,
+      "good": 0.4153
+    },
+    {
+      "bengali": 94,
+      "english": 80,
+      "maths": 69,
+      "good": 0.795
+    },
+    {
+      "bengali": 77,
+      "english": 50,
+      "maths": 76,
+      "good": 0.1817
+    },
+    {
+      "bengali": 11,
+      "english": 30,
+      "maths": 91,
+      "good": 0.4703
+    },
+    {
+      "bengali": 31,
+      "english": 81,
+      "maths": 47,
+      "good": 0.5828
+    },
+    {
+      "bengali": 67,
+      "english": 79,
+      "maths": 51,
+      "good": 0.2416
+    },
+    {
+      "bengali": 34,
+      "english": 0,
+      "maths": 32,
+      "good": 0.6385
+    },
+    {
+      "bengali": 43,
+      "english": 24,
+      "maths": 38,
+      "good": 0.7704
+    },
+    {
+      "bengali": 95,
+      "english": 48,
+      "maths": 32,
+      "good": 0.8597
+    },
+    {
+      "bengali": 56,
+      "english": 50,
+      "maths": 24,
+      "good": 0.3036
+    },
+    {
+      "bengali": 38,
+      "english": 4,
+      "maths": 10,
+      "good": 0.2572
+    },
+    {
+      "bengali": 5,
+      "english": 9,
+      "maths": 38,
+      "good": 0.9663
+    },
+    {
+      "bengali": 17,
+      "english": 80,
+      "maths": 53,
+      "good": 0.4146
+    },
+    {
+      "bengali": 100,
+      "english": 17,
+      "maths": 0,
+      "good": 0.1968
+    },
+    {
+      "bengali": 84,
+      "english": 6,
+      "maths": 70,
+      "good": 0.0996
+    },
+    {
+      "bengali": 21,
+      "english": 50,
+      "maths": 40,
+      "good": 0.637
+    },
+    {
+      "bengali": 87,
+      "english": 28,
+      "maths": 83,
+      "good": 0.451
+    },
+    {
+      "bengali": 79,
+      "english": 30,
+      "maths": 18,
+      "good": 0.0924
+    },
+    {
+      "bengali": 1,
+      "english": 100,
+      "maths": 0,
+      "good": 0.2524
+    },
+    {
+      "bengali": 50,
+      "english": 4,
+      "maths": 72,
+      "good": 0.2526
+    },
+    {
+      "bengali": 3,
+      "english": 59,
+      "maths": 72,
+      "good": 0.0411
+    },
+    {
+      "bengali": 43,
+      "english": 22,
+      "maths": 46,
+      "good": 0.2808
+    },
+    {
+      "bengali": 49,
+      "english": 57,
+      "maths": 30,
+      "good": 0.733
+    },
+    {
+      "bengali": 5,
+      "english": 2,
+      "maths": 44,
+      "good": 0.9806
+    },
+    {
+      "bengali": 67,
+      "english": 3,
+      "maths": 64,
+      "good": 0.2167
+    },
+    {
+      "bengali": 22,
+      "english": 97,
+      "maths": 2,
+      "good": 0.6103
+    },
+    {
+      "bengali": 71,
+      "english": 84,
+      "maths": 60,
+      "good": 0.3183
+    },
+    {
+      "bengali": 88,
+      "english": 6,
+      "maths": 52,
+      "good": 0.6996
+    },
+    {
+      "bengali": 62,
+      "english": 28,
+      "maths": 83,
+      "good": 0.8884
+    },
+    {
+      "bengali": 38,
+      "english": 16,
+      "maths": 75,
+      "good": 0.6379
+    },
+    {
+      "bengali": 87,
+      "english": 42,
+      "maths": 69,
+      "good": 0.6374
+    },
+    {
+      "bengali": 29,
+      "english": 55,
+      "maths": 42,
+      "good": 0.585
+    },
+    {
+      "bengali": 51,
+      "english": 23,
+      "maths": 62,
+      "good": 0.726
+    },
+    {
+      "bengali": 57,
+      "english": 71,
+      "maths": 19,
+      "good": 0.7373
+    },
+    {
+      "bengali": 4,
+      "english": 30,
+      "maths": 1,
+      "good": 0.5234
+    },
+    {
+      "bengali": 41,
+      "english": 18,
+      "maths": 90,
+      "good": 0.2551
+    },
+    {
+      "bengali": 85,
+      "english": 91,
+      "maths": 34,
+      "good": 0.6843
+    },
+    {
+      "bengali": 67,
+      "english": 98,
+      "maths": 34,
+      "good": 0.115
+    },
+    {
+      "bengali": 18,
+      "english": 6,
+      "maths": 49,
+      "good": 0.2004
+    },
+    {
+      "bengali": 81,
+      "english": 54,
+      "maths": 50,
+      "good": 0.9981
+    },
+    {
+      "bengali": 50,
+      "english": 46,
+      "maths": 53,
+      "good": 0.1457
+    },
+    {
+      "bengali": 7,
+      "english": 54,
+      "maths": 1,
+      "good": 0.243
+    },
+    {
+      "bengali": 85,
+      "english": 51,
+      "maths": 58,
+      "good": 0.1206
+    },
+    {
+      "bengali": 40,
+      "english": 40,
+      "maths": 76,
+      "good": 0.0119
+    },
+    {
+      "bengali": 67,
+      "english": 19,
+      "maths": 77,
+      "good": 0.2334
+    },
+    {
+      "bengali": 31,
+      "english": 36,
+      "maths": 42,
+      "good": 0.1536
+    },
+    {
+      "bengali": 34,
+      "english": 8,
+      "maths": 18,
+      "good": 0.8942
+    },
+    {
+      "bengali": 73,
+      "english": 11,
+      "maths": 23,
+      "good": 0.9715
+    },
+    {
+      "bengali": 80,
+      "english": 16,
+      "maths": 60,
+      "good": 0.6368
+    },
+    {
+      "bengali": 34,
+      "english": 59,
+      "maths": 25,
+      "good": 0.5305
+    },
+    {
+      "bengali": 33,
+      "english": 21,
+      "maths": 93,
+      "good": 0.1714
+    },
+    {
+      "bengali": 35,
+      "english": 38,
+      "maths": 69,
+      "good": 0.0676
+    },
+    {
+      "bengali": 33,
+      "english": 54,
+      "maths": 12,
+      "good": 0.7486
+    },
+    {
+      "bengali": 3,
+      "english": 54,
+      "maths": 94,
+      "good": 0.6585
+    },
+    {
+      "bengali": 51,
+      "english": 62,
+      "maths": 96,
+      "good": 0.1562
+    },
+    {
+      "bengali": 41,
+      "english": 21,
+      "maths": 36,
+      "good": 0.2388
+    },
+    {
+      "bengali": 35,
+      "english": 7,
+      "maths": 44,
+      "good": 0.365
+    },
+    {
+      "bengali": 57,
+      "english": 31,
+      "maths": 7,
+      "good": 0.1514
+    },
+    {
+      "bengali": 12,
+      "english": 100,
+      "maths": 53,
+      "good": 0.0145
+    },
+    {
+      "bengali": 53,
+      "english": 0,
+      "maths": 46,
+      "good": 0.0197
+    },
+    {
+      "bengali": 74,
+      "english": 33,
+      "maths": 25,
+      "good": 0.5947
+    },
+    {
+      "bengali": 60,
+      "english": 53,
+      "maths": 70,
+      "good": 0.6358
+    },
+    {
+      "bengali": 31,
+      "english": 65,
+      "maths": 78,
+      "good": 0.842
+    },
+    {
+      "bengali": 30,
+      "english": 10,
+      "maths": 100,
+      "good": 0.8734
+    },
+    {
+      "bengali": 72,
+      "english": 17,
+      "maths": 23,
+      "good": 0.6522
+    }
+  ]

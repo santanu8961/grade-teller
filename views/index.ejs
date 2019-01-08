@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+    <title>Title</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+    <style>
+    #container{
+        margin: 5% 30%;
+        box-shadow:         3px 3px 5px 6px rgb(27, 25, 25);
+        padding: 20px 15px
+    }
+    body{
+        font-size: 1.3rem;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: aqua;
+        color: rgba(88, 85, 85, 0.836);
+        height: 100%;
+        width: 100%
+        
+    }
+    p{
+        margin:2%
+    }
+    </style>
+</head>
+
+<body>
+    <div style="margin: 2% 41%" id="head">
+        <img height="200" width="200" src="images/ven.png" alt="">
+    </div>
+    <div id="container">
+   <p> Name : <input id="name" class="form-control" type="text"></p>
+    <p>Bengali :<input type="text" class="hello form-control" name="" id="bengali"></p>
+  <p>  English :<input type="text" class="hello form-control" id="english"></p>
+  <p> Maths : <input type="text" class="hello form-control" id="maths"></p>
+    <!-- <input type="text" class="hello" id=""> -->
+    <button type="button" class="btn btn-primary" id="botam">submit</button>
+</div>
+</body>
+<script>
+    $('document').ready(function(){
+        $('#botam').on('click',function(){
+                var name = $('#name').val(),
+                    bengali = parseInt($('#bengali').val()),
+                    english = parseInt($('#english').val()),
+                    maths = parseInt($('#maths').val());
+                    var data = {
+                        name:name,
+                        bengali:bengali,
+                        english:english,
+                        maths:maths
+                    }
+
+                    console.log(data);
+                    $.ajax({
+                        url:'/brain',
+                        type:'POST',
+                           
+                        data:data,
+                        dataType:'application/json',
+                        success:function(data){
+                            console.log('rest')
+                        }
+                    });
+        });
+    });
+
+
+</script>
+</html>
