@@ -12,10 +12,16 @@
     <title>Title</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
     <style>
-    #container{
+    #container {
         margin: 5% 30%;
         box-shadow:         3px 3px 5px 6px rgb(27, 25, 25);
         padding: 20px 15px
+    }
+    .container{
+        margin: 16% 34%;
+        box-shadow:         3px 3px 5px 6px rgb(27, 25, 25);
+        padding: 20px 15px;
+        max-width: 450px;
     }
     body{
         font-size: 1.3rem;
@@ -29,11 +35,14 @@
     p{
         margin:2%
     }
+    .hide{
+        display: none;
+    }
     </style>
 </head>
 
 <body>
-    <div style="margin: 2% 41%" id="head">
+    <div style="margin: 3% 41%" id="head">
         <img height="200" width="200" src="images/ven.png" alt="">
     </div>
     <div id="container">
@@ -43,6 +52,9 @@
   <p> Maths : <input type="text" class="hello form-control" id="maths"></p>
     <!-- <input type="text" class="hello" id=""> -->
     <button type="button" class="btn btn-primary" id="botam">submit</button>
+</div>
+<div class="hide container" id="alterhead"  style="margin: 2% 41%">
+
 </div>
 </body>
 <script>
@@ -60,19 +72,40 @@
                     }
 
                     console.log(data);
-                    $.ajax({
-                        url:'/brain',
-                        type:'POST',
+                    // $.ajax({
+                    //     url:'/brain',
+                    //     type:'POST',
                            
-                        data:data,
-                        dataType:'application/json',
-                        success:function(data){
-                            console.log('rest')
-                        }
-                    });
+                    //     data:data,
+                    //     dataType:'application/json',
+                    //     success:(data)=>{
+                    //         console.log(data);
+                    //     }
+                    // });
+
+                     $.ajax({
+            type: 'POST',
+            data: data,
+                 url: '/brain',
+            datatype: 'JSON',
+        }).done((res)=>{
+            console.log(res);
+            $('#head').addClass('hide');
+            $('#container').addClass('hide');
+            $('#alterhead').html(`<h1>||The Result of ${res.name}||</h1><p>good:${res.good}</p><p>Grade:${res.grade}</p>`)
+            $('#alterhead').removeClass('hide');
+            
+            // alert("Post Saved Successfully");
+        }
+            
+            // location.reload()
+            // alert('jkash')
+        ); 
         });
     });
 
 
+
 </script>
+
 </html>
